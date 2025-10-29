@@ -1,0 +1,1 @@
+Aprendendo/Entendendo visão computacional com OpenCV em Python.
